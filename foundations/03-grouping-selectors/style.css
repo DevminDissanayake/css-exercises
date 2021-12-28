@@ -1,0 +1,14 @@
+.subsection {
+    font-size: 28px;
+    font-family:Helvetica, Times New Roman, sans-serif;
+}
+
+.subsection.header{
+    background-color: black;
+    color: white;
+
+}
+
+.subsection.preview{
+    background-color: yellow;
+}
